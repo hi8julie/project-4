@@ -8,7 +8,7 @@
 * Julie Eremeeva
 
 ## Background 
-Michigan-based US Airlines – JEKS Air – ran a survey to determine which factors impact passenger satisfaction. 
+Michigan-based Airlines – JEKS Air – ran a survey to determine which factors impact passenger satisfaction. 
 The data collected includes – 
  * Gender: Gender of the passengers (Female, Male)
  * Customer Type: The customer type (Loyal customer, disloyal customer)

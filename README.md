@@ -8,7 +8,7 @@
 * Julie Eremeeva
 
 ## Background 
-A US Airlines headquarted in Michigan – JEKS Air – ran a survey to determine which factors impact passenger satisfaction. 
+Michigan-based US Airlines – JEKS Air – ran a survey to determine which factors impact passenger satisfaction. 
 The data collected includes – 
  * Gender: Gender of the passengers (Female, Male)
  * Customer Type: The customer type (Loyal customer, disloyal customer)
@@ -75,10 +75,17 @@ The JEKS Air is also interested in building a new set of tools that will allow t
          
          from imblearn.over_sampling import RandomOverSampler
 
-## Methods Used
+## Technologies 
+Python Pandas
+Tableau
+Amazon AWS
+PySpark 
 
 ## Data Source 
 Kaggle Dataset "Airline Passenger Satisfaction" https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+
+## Initial visualizations
+To explore the data before building the ML model, our team has created a Tableau dashboard with high-level findings in the data. Based on the survey, 
 
 
 ## Analysis Report

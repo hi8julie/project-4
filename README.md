@@ -62,7 +62,6 @@ The JEKS Air is also interested in building a new set of tools that will allow t
          from sklearn.preprocessing import StandardScaler
          import pandas as pd
          import tensorflow as tf
-         import numpy as np
 
          import findspark
          findspark.init() 
@@ -79,7 +78,10 @@ The JEKS Air is also interested in building a new set of tools that will allow t
 Python Pandas
 Tableau
 Amazon AWS
+Java
 PySpark 
+TensorFlow
+Scikit-Learn
 
 ## Data Source 
 Kaggle Dataset "Airline Passenger Satisfaction" https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction

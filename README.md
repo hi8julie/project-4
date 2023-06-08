@@ -85,7 +85,7 @@ The JEKS Air is also interested in building a new set of tools that will allow t
 
 
 ## Data Source 
-Kaggle Dataset "Airline Passenger Satisfaction" https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+Kaggle Dataset "Airline Passenger Satisfaction": https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
 ## Initial visualizations
 To explore the data before building the ML model, our team has created a Tableau dashboard and Excel charts with high-level findings in the data. 

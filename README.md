@@ -52,6 +52,7 @@ The JEKS Air is also interested in building a new set of tools that will allow t
          from sklearn.linear_model import LogisticRegression
          from sklearn.metrics import accuracy_score, confusion_matrix, balanced_accuracy_score, classification_report
          from imblearn.over_sampling import RandomOverSampler
+         import seaborn as sns
 
          # Install Spark and Java
          !apt-get update

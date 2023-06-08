@@ -104,7 +104,7 @@ Tableau Dashboard: https://public.tableau.com/app/profile/elizabeth.hansen5663/v
 
   - Split the Data into Training and Testing Sets
   - Create a Logistic Regression Model with the Original Data
-  - Create a deep neural network 
+  - Create a Neural Network Model for deep learning
   - Write an Airline Satisfaction Analysis Report
 
 ## Results

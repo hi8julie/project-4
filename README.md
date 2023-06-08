@@ -113,6 +113,7 @@ Tableau Dashboard: https://public.tableau.com/app/profile/elizabeth.hansen5663/v
 
 **Deep Learning**
 
+<img width="319" alt="report 2" src="https://github.com/hi8julie/project-4/assets/118202453/ab334fe6-7321-4d8f-90bc-8731221ab4ca">
 
 
 ## Limitations 

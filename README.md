@@ -1,5 +1,8 @@
 # Project 4: Airline Passenger Satisfaction
-![shutterstock_1196036986](https://github.com/hi8julie/project-4/assets/118202453/3312c8da-d46d-448b-8806-85515c4f8631)
+
+<img width="352" alt="JEKS pic" src="https://github.com/hi8julie/project-4/assets/118202453/789a9acd-1164-4467-85b0-ab840e60b7c4">
+
+
 
 ## Contributors 
 * Stephanie Wortman

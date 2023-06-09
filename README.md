@@ -80,6 +80,7 @@ The JEKS Air is also interested in building a new set of tools that will allow t
 * Tableau
 * Python Pandas
 * Matplotlib
+* Seaborn
 * Python Numpy
 * Amazon AWS S3 
 * PySpark 
@@ -88,7 +89,7 @@ The JEKS Air is also interested in building a new set of tools that will allow t
 * Google Colab
 
 
-<img width="423" alt="toolset2" src="https://github.com/hi8julie/project-4/assets/118202453/05f36ce9-0e35-4f5d-8a3b-dd2f186461e9">
+<img width="426" alt="toolkit3" src="https://github.com/hi8julie/project-4/assets/118202453/973d28e4-84f7-4f56-b028-295a35bdb1f8">
 
 
 

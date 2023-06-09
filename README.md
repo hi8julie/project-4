@@ -116,18 +116,21 @@ Tableau Dashboard: https://public.tableau.com/app/profile/elizabeth.hansen5663/v
 
 <img width="388" alt="report 1" src="https://github.com/hi8julie/project-4/assets/118202453/3d0232e7-b121-42f3-ae74-b07e10c05869">
 
+![cm 1](https://github.com/hi8julie/project-4/assets/118202453/43f6db29-de63-472a-bd11-7da25694adc5)
 
 **Deep Learning**
 
 <img width="495" alt="report 2" src="https://github.com/hi8julie/project-4/assets/118202453/5dddce60-38df-4597-8815-7b7005602126">
 
+![cm 2](https://github.com/hi8julie/project-4/assets/118202453/0cdfd0c9-5f80-4fa2-bbf9-378be5396bca)
 
 
 ## Limitations 
-* No data on location and airlines (JEKS AIR was made up by us).
+* No data on location or airlines (JEKS AIR was made up by us).
 * The answer “neutral” and “dissatisfied” were combined even though they have very different meaning. 
 * A lot of  “N/A” inputs. For some columns, keeping N/As was important (e.g., delay in departure/arrival). For other columns, it was unnecessary and might have affected the ML model. 
-* We don’t have data on how the survey was run and how representative it is. 
+* No information on how the survey was conducted or how representative the population is. 
+
 
 
 

@@ -5,10 +5,10 @@
 
 
 ## Contributors 
-* Stephanie Wortman
+* Julie Eremeeva
 * Elizabeth Hansen
 * Kathryn Kessler
-* Julie Eremeeva
+* Stephanie Wortman
 
 ## Background 
 Michigan-based Airlines – JEKS Air – ran a survey to determine which factors impact passenger satisfaction. 
